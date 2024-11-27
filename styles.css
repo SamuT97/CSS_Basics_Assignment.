@@ -1,0 +1,40 @@
+/* Style for <p> with class "color-example" */
+.color-example {
+    color: blue; /* Text color */
+    background-color: #f0e68c; /* Light yellow background */
+    border: 2px solid green; /* Green border with thickness */
+    padding: 10px; /* Adds space inside the border */
+}
+
+/* Style for <h1> with class "header-example" */
+.header-example {
+    font-size: 2.5em; /* Increases font size */
+    font-family: Arial, sans-serif; /* Font family */
+    color: crimson; /* Crimson text color */
+    text-align: center; /* Centers the text */
+}
+
+/* Style for <ul> with class "list-example" */
+.list-example {
+    list-style-type: square; /* Changes bullet points to squares */
+    color: teal; /* Changes text color for list items */
+    font-family: Verdana, sans-serif; /* Sets font family */
+    font-size: 1.2em; /* Increases font size */
+}
+
+/* Style for <p> with class "text-example" */
+.text-example {
+    font-family: 'Courier New', monospace; /* Monospace font */
+    font-size: 1.5em; /* Larger font size */
+    text-transform: capitalize; /* Capitalizes the text */
+    text-decoration: underline; /* Underlines the text */
+    margin: 20px 0; /* Adds space above and below */
+}
+
+/* Style for <div> with class "div-example" */
+.div-example {
+    background-color: lightgray; /* Light gray background */
+    border: 3px dashed orange; /* Dashed orange border */
+    padding: 15px; /* Space inside the border */
+    margin-top: 20px; /* Space above the div */
+}
